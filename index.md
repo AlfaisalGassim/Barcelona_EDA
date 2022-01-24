@@ -4,7 +4,7 @@
 - Population dataset visulization
 
 #### [GitHub Repo](https://github.com/AlfaisalGassim/Barcelona_EDA)  
-#### [Project in HTML](https://alfaisalgassim.github.io/Barcelona_EDA/BarcelonaFINAL.ipynb)
+#### [Project in HTML](https://alfaisalgassim.github.io/Barcelona_EDA/BarcelonaFINAL.html)
 
 
 #### |Team Members| 
