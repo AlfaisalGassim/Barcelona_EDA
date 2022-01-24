@@ -2,8 +2,9 @@
 
 - Team 1 Barcelona data set 
 - Population dataset visulization
--
--
+#### [Project in HTML](https://alfaisalgassim.github.io/Barcelona_EDA/BarcelonaFINAL.html)
+
+
 #### |Team Members| 
 - Alfaisal Alqahtani.
 - Awatef Alshehri.
