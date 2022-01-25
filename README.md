@@ -1,16 +1,16 @@
 # |Barcelona_EDA|
 
-- Team 1 Barcelona data set 
-- Population dataset visulization
-#### [Project in GitHub Pages](https://alfaisalgassim.github.io/Barcelona_EDA)
+> Team 1 Barcelona data set 
+> Population dataset visulization
+## [Project in GitHub Pages](https://alfaisalgassim.github.io/Barcelona_EDA)
 
 
-#### |Team Members| 
-- Alfaisal Alqahtani.
-- Awatef Alshehri.
-- Khalid Alharthi.
-- Nawaf Alhussain.
-- Zahra Alali.
+## |Team Members| 
+> Alfaisal Alqahtani.
+> Awatef Alshehri.
+> Khalid Alharthi.
+> Nawaf Alhussain.
+> Zahra Alali.
 
 
 #### - Refreance for the map: 
