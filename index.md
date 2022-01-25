@@ -18,5 +18,5 @@
 
 
 #### - Refreance for the map: 
-- https://franherreragon.medium.com/making-barcelonas-robbery-cases-choropleth-map-71f1bd406dfc
-- https://geojson.io/#map=12/41.3899/2.1382
+- [Making Barcelona’s Robbery Cases Choropleth Map](https://franherreragon.medium.com/making-barcelonas-robbery-cases-choropleth-map-71f1bd406dfc)
+- [https://geojson.io/#map=12/41.3899/2.1382](https://geojson.io/#map=12/41.3899/2.1382)
