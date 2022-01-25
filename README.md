@@ -7,7 +7,7 @@
 
 
 ## Team Members
-> **Alfaisal Alqahtani.
+> ** Alfaisal Alqahtani.
 > Awatef Alshehri.
 > Khalid Alharthi.
 > Nawaf Alhussain.
