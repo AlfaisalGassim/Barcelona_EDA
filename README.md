@@ -7,11 +7,11 @@
 
 
 ## Team Members
-> ** Alfaisal Alqahtani.
-> Awatef Alshehri.
-> Khalid Alharthi.
-> Nawaf Alhussain.
-> Zahra Alali.
+> * Alfaisal Alqahtani.
+> * Awatef Alshehri.
+> * Khalid Alharthi.
+> * Nawaf Alhussain.
+> * Zahra Alali.
 
 
 #### - Refreance for the map: 
