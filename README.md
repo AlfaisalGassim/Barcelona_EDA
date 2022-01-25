@@ -1,8 +1,9 @@
-# Barcelona_EDA
+# Barcelona EDA
 
-> Team 1 Barcelona data set 
+> Group project for Misk Skills - Data Science Immersive 2021-02 
 
-> Population dataset visulization
+> Exploratory data analysis for Barcelona's Population dataset 
+
 ## [Project in GitHub Pages](https://alfaisalgassim.github.io/Barcelona_EDA)
 
 
